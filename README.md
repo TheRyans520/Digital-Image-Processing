@@ -46,9 +46,6 @@ The second part focuses on detecting and segmenting circular objects of varying 
 4. Large circle extraction through exclusion methods
 5. Boundary delineation using morphological operations (closing, erosion, opening)
 
-## Methodology
-
-### Image Restoration Pipeline
 
 ## Key Algorithms
 
@@ -127,3 +124,4 @@ This project is developed for academic research purposes, demonstrating the effe
 ## Author
 
 Name: Pan Yuxuan  
+Email: 978299659@qq.com
